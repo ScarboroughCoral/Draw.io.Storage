@@ -1,1 +1,54 @@
-<mxfile host="www.draw.io" modified="2019-12-30T07:37:07.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="9Td_lH34NPP4OXrTJH1d" version="12.4.7" type="github"><diagram id="440-f5ZBlcjLqcvLJB9_" name="architecture">3Vhdb9owFP01PA7ZcUjCI1C6PnQbUx+2PU0mvhCvTowc87VfP5s4XyRlqwqqtAqp8fG9jn3O8TVmQGbp4aOim+STZCAGHmKHAbkbeB72PW9gP4gdCyQMcAGsFWcuqAae+G9wIHLoljPIW4FaSqH5pg3GMssg1i2MKiX37bCVFO23bugaOsBTTEUX/caZTgo08sIafwC+Tso342Bc9KS0DHYryRPK5L4BkfmAzJSUunhKDzMQlrySlyLv/oXeamIKMv0vCfMfMUNfYh1/uN/m6eRh9yX6+sFNNtfHcsHAzPpdUyqdyLXMqJjX6FTJbcbAjopNq455lHLjwF+g9dGJSbdaGijRqXC9ZsLq+N02hqhq/zBtNAxwBdxZD6GqdWy2FqB4ChqUA4tV2Km/SI6DcrlVMVxgxPlVU7UGfSGOVBIa74M0s1FHk6dAUM137XlQZ8J1FedSJ0rRYyNgI3mm88bICwuYALefSOTM5HaT559p/rp481DMoGw1llJDJx+9wlPYew9TvYMFMLqGBzqihaMz0QhqD1FMzGXVar7WTCE6e48XXTTTX+JvYyanxY6KreOzY662daiKnUewrQyM5knVl2sln2EmhVSnVEICMiamd7riQjTw1XgV2qxT+oJqU2ky02PWi8y+N0XL/i/HK88Fr3LhDpSGw2Ufdm3jEnwyatFcbuF9ffxUjkgaRw9BZzZpOq0h0us1IB0NuCH8AOxu2hHDnHIb+8ioprmWyu7tfcI1PG3oadPtzfeE9s49435J44iRPrU84vsjdh2Wy0pYsoyjUYdmjHpoHt+K5fBNVRO9e9X0/7FqBm8smm8i2e9YeWEGQjPB4VTqJovFi5aGg+4cVA0q+1x+Zm28pBi8PmsjFMwn9zZDZrpZiE5/Vyos4zPL+93Kgr0ey0e3snzQUeOzuUDcUIAlAgJBrwAQoSi6DdFe8N5ERx2ip1surOGXdt5zYa5OSmYd5nVBeYPkNnGZzOCMZQdRwdf2yIwNZ/Zr+tQyys29auI6Us6YeOl0aNe1q0jSPlSr0t6UBPdI4t1KkvJll77ZlMZPD2t7ux4uN2k2zEHteAw/zfn63NZGbrXgmRGnvAqjnh2AGVuhvh2AUUjGcB26wzBs0z0OOnQHPWwH/q3Yxh227x4fzVDfYDnJc0iX4vj/uj/0RsO2/80lo+v/gFzF/6ZZ/6pR3APq34bI/A8=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-30T10:01:14.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="DW2dnkPav_3FbBGOLDid" version="12.4.7" type="github">
+  <diagram id="440-f5ZBlcjLqcvLJB9_" name="architecture">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="6CmvbCjReuZrtyEhAUID-1" value="" style="rounded=1;arcSize=10;strokeColor=#36393d;fillColor=#f9f7ed;strokeWidth=2;shadow=1;dashed=1;comic=1;glass=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="790" height="410" as="geometry"/>
+        </mxCell>
+        <mxCell id="EYcd0Octc-FusmAHvO8Q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.01;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" parent="1" source="EYcd0Octc-FusmAHvO8Q-2" target="EYcd0Octc-FusmAHvO8Q-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="240"/>
+              <mxPoint x="380" y="240"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EYcd0Octc-FusmAHvO8Q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" parent="1" source="EYcd0Octc-FusmAHvO8Q-2" target="EYcd0Octc-FusmAHvO8Q-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="230" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="700" y="228"/>
+              <mxPoint x="700" y="228"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EYcd0Octc-FusmAHvO8Q-2" value="" style="rounded=1;arcSize=10;strokeColor=#36393d;fillColor=#eeeeee;strokeWidth=2;shadow=1;comic=1;glass=1;gradientColor=none;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="435" y="80" width="230" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="EYcd0Octc-FusmAHvO8Q-3" value="indexedDB" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;shadow=1;gradientColor=none;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="240" y="185" width="100" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="EYcd0Octc-FusmAHvO8Q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" parent="1" source="EYcd0Octc-FusmAHvO8Q-4" target="EYcd0Octc-FusmAHvO8Q-6" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="EYcd0Octc-FusmAHvO8Q-4" value="PC Client APP" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontFamily=Comic Sans MS;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="140" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="EYcd0Octc-FusmAHvO8Q-6" value="Node" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#b0e3e6;strokeColor=#0e8088;fontFamily=Comic Sans MS;glass=0;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="260" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="EYcd0Octc-FusmAHvO8Q-8" value="Built by Electron" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="495" y="100" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="EYcd0Octc-FusmAHvO8Q-10" value="" style="shape=mxgraph.bpmn.service_task;html=1;outlineConnect=0;fillColor=#b1ddf0;strokeColor=#10739e;shadow=1;gradientColor=none;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="777" y="196" width="60" height="64" as="geometry"/>
+        </mxCell>
+        <mxCell id="EYcd0Octc-FusmAHvO8Q-11" value="DLL/WebAssembly" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="725.5" y="275" width="163" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
