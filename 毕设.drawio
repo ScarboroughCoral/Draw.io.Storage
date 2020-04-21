@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-21T07:09:24.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="0-JRh6u_7IhpxpfZEdPU" version="12.9.14" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-04-21T07:12:13.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="QzHIBJPBXe5-ZG0slWRD" version="12.9.14" type="github" pages="9">
   <diagram id="440-f5ZBlcjLqcvLJB9_" name="1-architecture">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,7 +265,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6irqHbTT9QSUp7ZaFouD-11" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=16;" edge="1" parent="6irqHbTT9QSUp7ZaFouD-1" source="6irqHbTT9QSUp7ZaFouD-13" target="6irqHbTT9QSUp7ZaFouD-16">
+        <mxCell id="6irqHbTT9QSUp7ZaFouD-11" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=16;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="6irqHbTT9QSUp7ZaFouD-1" source="6irqHbTT9QSUp7ZaFouD-8" target="6irqHbTT9QSUp7ZaFouD-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6irqHbTT9QSUp7ZaFouD-12" value="《include》" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F9F7ED;fontSize=16;" vertex="1" connectable="0" parent="6irqHbTT9QSUp7ZaFouD-11">
@@ -277,9 +277,9 @@
           <mxGeometry x="220" y="100" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6irqHbTT9QSUp7ZaFouD-16" value="输出外壳模型文件" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
-          <mxGeometry x="510" y="110" width="140" height="70" as="geometry" />
+          <mxGeometry x="350" y="210" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6irqHbTT9QSUp7ZaFouD-17" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=16;" edge="1" parent="6irqHbTT9QSUp7ZaFouD-1" source="6irqHbTT9QSUp7ZaFouD-19" target="6irqHbTT9QSUp7ZaFouD-20">
+        <mxCell id="6irqHbTT9QSUp7ZaFouD-17" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=16;" edge="1" parent="6irqHbTT9QSUp7ZaFouD-1" source="6irqHbTT9QSUp7ZaFouD-13" target="6irqHbTT9QSUp7ZaFouD-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6irqHbTT9QSUp7ZaFouD-18" value="《include》" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F9F7ED;fontSize=16;" vertex="1" connectable="0" parent="6irqHbTT9QSUp7ZaFouD-17">
@@ -287,11 +287,11 @@
             <mxPoint x="20" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6irqHbTT9QSUp7ZaFouD-19" value="动态模拟" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
-          <mxGeometry x="510" y="-40" width="140" height="70" as="geometry" />
+        <mxCell id="6irqHbTT9QSUp7ZaFouD-19" value="设置变化频率" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
+          <mxGeometry x="450" y="10" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6irqHbTT9QSUp7ZaFouD-20" value="三维编织算法" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
-          <mxGeometry x="760" y="-50" width="140" height="70" as="geometry" />
+        <mxCell id="6irqHbTT9QSUp7ZaFouD-20" value="设置变化幅度" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
+          <mxGeometry x="460" y="100" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6irqHbTT9QSUp7ZaFouD-21" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=16;" edge="1" parent="6irqHbTT9QSUp7ZaFouD-1" source="6irqHbTT9QSUp7ZaFouD-27">
           <mxGeometry relative="1" as="geometry">
@@ -340,7 +340,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6irqHbTT9QSUp7ZaFouD-40" value="人机交互模型观察" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
-          <mxGeometry x="-80" y="390" width="140" height="70" as="geometry" />
+          <mxGeometry x="-80" y="340" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6irqHbTT9QSUp7ZaFouD-41" value="改变纱线颜色" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
           <mxGeometry x="-350" y="310" width="140" height="70" as="geometry" />
@@ -349,7 +349,7 @@
           <mxGeometry x="-350" y="440" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6irqHbTT9QSUp7ZaFouD-43" value="编织外壳属性计算" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
-          <mxGeometry x="-80" y="170" width="140" height="70" as="geometry" />
+          <mxGeometry x="-80" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6irqHbTT9QSUp7ZaFouD-44" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="6irqHbTT9QSUp7ZaFouD-1" source="6irqHbTT9QSUp7ZaFouD-48" target="6irqHbTT9QSUp7ZaFouD-50">
           <mxGeometry relative="1" as="geometry" />
@@ -367,14 +367,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6irqHbTT9QSUp7ZaFouD-48" value="编织外壳模型管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
+        <mxCell id="6irqHbTT9QSUp7ZaFouD-48" value="模型显示" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
           <mxGeometry x="210" y="355" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6irqHbTT9QSUp7ZaFouD-49" value="删除外壳模型" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
-          <mxGeometry x="510" y="450" width="140" height="70" as="geometry" />
+        <mxCell id="6irqHbTT9QSUp7ZaFouD-49" value="编织类型选择" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
+          <mxGeometry x="510" y="490" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6irqHbTT9QSUp7ZaFouD-50" value="显示编织外壳模型" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
-          <mxGeometry x="510" y="270" width="140" height="70" as="geometry" />
+        <mxCell id="6irqHbTT9QSUp7ZaFouD-50" value="加减纱线" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6irqHbTT9QSUp7ZaFouD-1">
+          <mxGeometry x="510" y="340" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
