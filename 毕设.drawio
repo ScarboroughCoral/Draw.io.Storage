@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-21T12:34:32.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="jZOvYILhA7VvPX_QCnmz" version="13.0.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-04-21T12:39:51.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="AYHnJw1bosW2iLeDdPbQ" version="13.0.0" type="github" pages="11">
   <diagram id="440-f5ZBlcjLqcvLJB9_" name="1-architecture">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1333,7 +1333,7 @@
     
   </diagram>
   <diagram id="qRxUqy2kQTAV2zlp2mCs" name="2-动态绘制流程">
-    <mxGraphModel dx="431" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TFzQ7OsAIPxJ9ZCtC-fl-0" />
         <mxCell id="TFzQ7OsAIPxJ9ZCtC-fl-1" parent="TFzQ7OsAIPxJ9ZCtC-fl-0" />
@@ -1543,6 +1543,29 @@
         </mxCell>
         <mxCell id="Cd4zPdnlDGR6CfMLB9nG-17" value="模型创建显示" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=#FFFFFF;fontSize=13;" parent="Cd4zPdnlDGR6CfMLB9nG-1" vertex="1">
           <mxGeometry x="30" y="540" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yxqToy73cDVAFgnx0qT0" name="架构图">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="NecLcPGxF-SbS9RyhXmu-0" />
+        <mxCell id="NecLcPGxF-SbS9RyhXmu-1" parent="NecLcPGxF-SbS9RyhXmu-0" />
+        <mxCell id="NecLcPGxF-SbS9RyhXmu-2" value="三维编织模拟系统" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="NecLcPGxF-SbS9RyhXmu-1">
+          <mxGeometry x="210" y="100" width="480" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NecLcPGxF-SbS9RyhXmu-3" value="视图层" style="swimlane;html=1;startSize=20;" vertex="1" parent="NecLcPGxF-SbS9RyhXmu-2">
+          <mxGeometry y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="NecLcPGxF-SbS9RyhXmu-4" value="控制层" style="swimlane;html=1;startSize=20;" vertex="1" parent="NecLcPGxF-SbS9RyhXmu-2">
+          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="NecLcPGxF-SbS9RyhXmu-5" value="业务逻辑层" style="swimlane;html=1;startSize=20;" vertex="1" parent="NecLcPGxF-SbS9RyhXmu-2">
+          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="NecLcPGxF-SbS9RyhXmu-6" value="依赖库和核心算法" style="swimlane;html=1;startSize=20;" vertex="1" parent="NecLcPGxF-SbS9RyhXmu-2">
+          <mxGeometry x="360" y="20" width="120" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
