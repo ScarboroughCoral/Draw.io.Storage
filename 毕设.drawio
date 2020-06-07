@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-07T11:51:51.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="buw-5bMK6UGsFYM98-oJ" version="13.1.14" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2020-06-07T12:13:05.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="36bPma8O3l4s7Hfcoaxr" version="13.1.14" type="github" pages="15">
   <diagram id="440-f5ZBlcjLqcvLJB9_" name="1-architecture">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1318,6 +1318,9 @@
         <mxCell id="kvOZEYH3dLWzJpLjg6yr-8" value="模型切面观察" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="kvOZEYH3dLWzJpLjg6yr-1">
           <mxGeometry x="777.5" y="490" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kvOZEYH3dLWzJpLjg6yr-21" value="按照高度动态模拟" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#56517e;strokeWidth=3;fillColor=#d0cee2;fontFamily=Helvetica;fontSize=20;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="kvOZEYH3dLWzJpLjg6yr-1">
+          <mxGeometry x="777.5" y="380.5" width="182.5" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="kvOZEYH3dLWzJpLjg6yr-9" value="切面确定" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontStyle=3" vertex="1" parent="kvOZEYH3dLWzJpLjg6yr-1">
           <mxGeometry x="1110" y="490" width="150" height="60" as="geometry" />
         </mxCell>
@@ -1344,6 +1347,12 @@
         <mxCell id="kvOZEYH3dLWzJpLjg6yr-20" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;spacing=5;fontStyle=3;fillColor=#b0e3e6;" edge="1" parent="kvOZEYH3dLWzJpLjg6yr-1" target="kvOZEYH3dLWzJpLjg6yr-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="937" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kvOZEYH3dLWzJpLjg6yr-23" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=20;fontColor=#23445D;spacing=5;fontStyle=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kvOZEYH3dLWzJpLjg6yr-1" target="kvOZEYH3dLWzJpLjg6yr-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="653" y="411" as="sourcePoint" />
+            <mxPoint x="797.3571428571427" y="317.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
